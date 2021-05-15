@@ -1,0 +1,16 @@
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\VariablesTask.exe
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\VariablesTask.deps.json
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\VariablesTask.runtimeconfig.json
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\VariablesTask.runtimeconfig.dev.json
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\VariablesTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\ref\VariablesTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\bin\Debug\net5.0\VariablesTask.pdb
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.csprojAssemblyReference.cache
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.AssemblyInfoInputs.cache
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.AssemblyInfo.cs
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.csproj.CoreCompileInputs.cache
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\ref\VariablesTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.pdb
+C:\Users\chadl\Documents\GitHub\Programming\VariablesTask\obj\Debug\net5.0\VariablesTask.genruntimeconfig.cache
