@@ -1,0 +1,5 @@
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.csprojAssemblyReference.cache
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
