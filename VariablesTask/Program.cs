@@ -5,6 +5,7 @@ namespace VariablesTask
     class Program
     {
         static void Main(string[] args) {
+
             Console.WriteLine("Enter name");
 
             string Name = Console.ReadLine();
@@ -15,7 +16,15 @@ namespace VariablesTask
             
             string Lastname = Console.ReadLine();
 
-            Console.WriteLine("Last name is" + Lastname);
+            Console.WriteLine("Last name is " + Lastname);
+
+            Console.WriteLine("Enter StudentID");
+
+            int ID = 103564240;
+
+            Console.WriteLine(Name + "'s StudentID is " + ID);
+
+            
          }
     }
 }
