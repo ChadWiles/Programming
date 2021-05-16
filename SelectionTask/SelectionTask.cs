@@ -18,23 +18,21 @@ namespace SelectionTask
                 {
                     Console.WriteLine("Legally not adult age");
                 }
-            
+ 
             Console.Write("Please enter your gender: ");
             string gender = Console.ReadLine();
             
             Console.Write("Please enter your age: ");
             
-            string gAge = Console.ReadLine();
-            
-            int genderAge = int.Parse(gAge);
+            int ageNum = int.Parse(age);
 
-            if (genderAge >= 17) {
-
+            if (ageNum >= 17) {
                 Console.WriteLine(gender + "is an adult");
 
             } else {
                 Console.WriteLine(gender + "is not an adult");
-            }
+
+            
             Console.Write("Please enter a number: ");
 
             int num_1 = Console.ReadLine();
