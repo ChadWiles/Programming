@@ -24,7 +24,9 @@ namespace SelectionTask
             
             Console.Write("Please enter your age: ");
             
-            int genderAge = int.Parse(age);
+            string gAge = Console.ReadLine();
+            
+            int genderAge = int.Parse(gAge);
 
             if (genderAge >= 17) {
 
