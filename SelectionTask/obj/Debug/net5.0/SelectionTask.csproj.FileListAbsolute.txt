@@ -3,3 +3,14 @@ C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\Selec
 C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
 C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
 C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\SelectionTask.exe
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\SelectionTask.deps.json
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.json
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.dev.json
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\SelectionTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\bin\Debug\net5.0\SelectionTask.pdb
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.pdb
+C:\Users\chadl\Documents\GitHub\Programming\SelectionTask\obj\Debug\net5.0\SelectionTask.genruntimeconfig.cache
