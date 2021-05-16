@@ -20,7 +20,7 @@ namespace VariablesTask
 
             Console.WriteLine("Enter StudentID");
 
-            int ID = 103564240;
+            string ID = Console.ReadLine();
 
             Console.WriteLine(Name + "'s StudentID is " + ID);
 
