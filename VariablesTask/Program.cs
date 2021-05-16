@@ -30,7 +30,7 @@ namespace VariablesTask
 
 
 
-            Console.WriteLine("Enter Date of Birth");
+            Console.WriteLine("Enter Year of Birth");
 
             string YOB = Console.ReadLine();
 
