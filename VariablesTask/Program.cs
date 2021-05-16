@@ -5,14 +5,13 @@ namespace VariablesTask
     class Program
     {
         static void Main(string[] args) {
-            string firstname = "Chad";
-            string lastname = "Wiles";
-            int ID = 103564240;
-            int DOB = 1994;
-            int YEAR = 2021; 
-            firstname = Console.ReadLine();
-            lastname = Console.ReadLine();
-            Console.WriteLine("firstname + lastname");
+                string word_1;
+                string word_2;
+
+                word_1 = Console.ReadLine();
+                word_2 = Console.ReadLine();
+
+                Console.WriteLine(word_1 + word_2);
         }
     }
 }
