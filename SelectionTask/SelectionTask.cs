@@ -27,10 +27,10 @@ namespace SelectionTask
             int genderAge = int.Parse(age);
 
             if (genderAge >= 17) {
-                Console.WriteLine(gender + "is an adult");
+                Console.WriteLine(gender + " is an adult");
 
             } else {
-                Console.WriteLine(gender + "is not an adult");
+                Console.WriteLine(gender + " is not an adult");
             }
             }
             
