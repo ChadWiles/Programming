@@ -31,7 +31,7 @@ namespace SelectionTask
 
             } else {
                 Console.WriteLine(gender + "is not an adult");
-
+            }
             
             Console.Write("Please enter a number: ");
 
@@ -56,5 +56,9 @@ namespace SelectionTask
         }
     }
 }
+
+
+
+
 
 
