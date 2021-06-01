@@ -47,7 +47,7 @@ namespace SelectionTask
             } else {
                 Console.WriteLine("Sum of numbers is less than 10");
             }
-
+            Console.Write("Thank you, Goodbye");
             
         }
     }
