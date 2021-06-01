@@ -21,30 +21,26 @@ namespace SelectionTask
  
             Console.Write("Please enter your gender: ");
             string gender = Console.ReadLine();
-            
-            Console.Write("Please enter your age: ");
-            
-            int ageNum = int.Parse(age);
 
             if (ageNum >= 17) {
-                Console.WriteLine(gender + "is an adult");
+                Console.WriteLine(gender + " is an adult");
 
             } else {
-                Console.WriteLine(gender + "is not an adult");
+                Console.WriteLine(gender + " is not an adult");
             }
             
             Console.Write("Please enter a number: ");
 
-            int num_1 = Console.ReadLine();
+            int num_1 = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Please enter a second number: ");
 
-            int num_2 = Console.ReadLine();
+            int num_2 = Convert.ToInt32(Console.ReadLine());
 
             if (num_1 + num_2 >= 10) {
                 Console.WriteLine("Sum is greater than 10");
             
-            if (num_1 + num_2 = 10) {
+            if (num_1 + num_2 == 10) {
                 Console.WriteLine("The total amount equals 10! You did it!");
             }
 

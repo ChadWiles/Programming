@@ -12,15 +12,11 @@ namespace VariablesTask
 
             Console.WriteLine("First name is " + Name);
 
-
-
             Console.WriteLine("Enter surname");
             
             string Lastname = Console.ReadLine();
 
             Console.WriteLine("Last name is " + Lastname);
-
-
 
             Console.WriteLine("Enter StudentID");
 
@@ -28,15 +24,11 @@ namespace VariablesTask
 
             Console.WriteLine(Name + "'s StudentID is " + ID);
 
-
-
             Console.WriteLine("Enter Year of Birth");
 
             string YOB = Console.ReadLine();
 
             Console.WriteLine(Name + "'s Year of Birth is " + YOB);
-
-
 
             Console.WriteLine("What year is it?"); 
 
